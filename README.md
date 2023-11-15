@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/oggnimodd/oggnimodd/blob/main/artwork%20(1)%20(1).png" />
 
 <!--
 **oggnimodd/oggnimodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
